@@ -1,0 +1,3 @@
+[submodule "IoTContracts"]
+	path = IoTContracts
+	url = https://github.com/Franchef/IoTContracts.git
